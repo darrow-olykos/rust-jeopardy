@@ -11,3 +11,6 @@ Q2
 
 Q3
 - ______ enables types to be created such that they are: 1) interoperable with the C Language and 2) able to have its values soundly reinterpreted as a different type.
+
+ Q4
+- ______ removes all byte padding from a type.
