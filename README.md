@@ -1,4 +1,4 @@
-Unrefined categories questions that may be worthy. Not in any particular order, and needs refinement.
+Unrefined questions (& their potential categories) that may be worthy in a Rust Jeopardy competition. Not in any particular order, needs refinement (categorization, sequencing, and "hints")
 
 Category Name: "Memory Constrained Systems" / "Type Layout" / "In Memory Representation"
 
