@@ -10,4 +10,4 @@ Q2
 - Difference between \<show example enum with large field\> and <example enum with Box<of that field> is a saving of _____ bytes.
 
 Q3
-- ______ enables types to be created at are: 1) interoperable with the C Language & also 2) able to have its values soundly reinterpreted as a different type.
+- ______ enables types to be created such that they are: 1) interoperable with the C Language and 2) able to have its values soundly reinterpreted as a different type.
