@@ -21,5 +21,5 @@ Q5
 - _____ and _____ are types that are dynamically sized.
 
 Q6
-- A Box<T> has a size of _____ when T is dynamically sized.
+- A Box\<T\> has a size of _____ when T is dynamically sized.
 
