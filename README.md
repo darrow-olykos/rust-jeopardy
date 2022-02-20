@@ -16,3 +16,6 @@ Q3
 
  Q4
 - ______ removes all byte padding from a type.
+
+Q5
+- A Box<T> has a size of (2 * CPU word size) when T is ______.
