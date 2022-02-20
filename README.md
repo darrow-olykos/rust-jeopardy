@@ -15,7 +15,7 @@ Q3
 - ______ enables types to be created such that they are: 1) interoperable with the C Language and 2) able to have its values soundly reinterpreted as a different type.
 
  Q4
-- ______ removes all byte padding from a type.
+- ______ removes all byte padding from a type (and should be avoided since it causes misalignment issues).
 
 Q5
 - A Box<T> has a size of (2 * CPU word size) when T is ______.
