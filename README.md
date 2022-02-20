@@ -18,4 +18,8 @@ Q3
 - ______ removes all byte padding from a type (and should be avoided since it causes misalignment issues).
 
 Q5
-- A Box<T> has a size of (2 * CPU word size) when T is ______.
+- _____ and _____ are types that are dynamically sized.
+
+Q6
+- A Box<T> has a size of _____ when T is dynamically sized.
+
